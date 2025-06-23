@@ -15,6 +15,7 @@
 
 ###
 
+<h5 align="left">Languge & Scripting </h5>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
