@@ -35,24 +35,24 @@
 ###
 <h5 align="left">Devops/Cloud</h5>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="30" alt="terraform logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="prometheus logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="30" alt="grafana logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
@@ -60,11 +60,11 @@
 <h5 align="left">ML/Editor Tools</h5>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
