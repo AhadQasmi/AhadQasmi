@@ -15,7 +15,7 @@
 
 ###
 
-<h5 align="left">Languages/Scripting</h5>
+<h5 align="left">Programming Languages</h5>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="10" />
@@ -33,7 +33,7 @@
 </div>
 
 ###
-<h5 align="left">Devops/Cloud</h5>
+<h5 align="left">Development & DevOps Tools</h5>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="10" />
@@ -57,7 +57,7 @@
 </div>
 
 ###
-<h5 align="left">ML/Editor Tools</h5>
+<h5 align="left">Data Analysis & Editors</h5>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="10" />
