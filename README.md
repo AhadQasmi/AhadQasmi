@@ -47,7 +47,6 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="30" alt="grafana logo"  />
   <img width="10" />
- <!-- <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  /> -->
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="10" />
@@ -55,7 +54,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
 </div>
-
+<!-- <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  /> -->
 ###
 <h5 align="left">Data Analysis & Editors:</h5>
 <div align="left">
