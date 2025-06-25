@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
 </div>
 <!-- <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  /> -->
-###
+
 <h5 align="left">Data Analysis & Editors:</h5>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
