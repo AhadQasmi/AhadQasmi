@@ -53,7 +53,7 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
 </div>
 
 ###
