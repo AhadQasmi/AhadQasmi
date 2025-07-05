@@ -19,8 +19,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
